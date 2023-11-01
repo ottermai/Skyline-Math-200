@@ -1,4 +1,4 @@
-Timestamp,What is your GPA?,Do you listen to music while doing homework? ,How many minutes do you listen to music while doing homework? ,What type of music do you listen to? 
+Timestamp,GPA,Do_you_listen_to_music_while_doing_homework? ,How_many_minutes_do_you_listen_to_music_while_doing_homework? ,Music_Type
 10/29/2023 23:39:22,3.5,No,10,Upbeat
 10/31/2023 16:16:23,4.1,Yes,180,Chill
 10/31/2023 16:17:13,4,Yes,60,Upbeat
@@ -180,4 +180,6 @@ Timestamp,What is your GPA?,Do you listen to music while doing homework? ,How ma
 10/31/2023 18:00:03,3.26,No,0,Upbeat
 10/31/2023 18:00:48,3.15,No,0,Upbeat
 10/31/2023 18:08:56,4,Yes,30,Chill
-10/31/2023 19:10:16,4,Yes,30,"Chill (lofi, instrumentals, R&B)"
+10/31/2023 19:10:16,4,Yes,30,Chill
+10/31/2023 19:12:41,3.9,No,0,Chill
+10/31/2023 19:12:41,4,Yes,60,Chill
