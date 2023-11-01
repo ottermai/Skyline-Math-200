@@ -1,4 +1,4 @@
-Timestamp,What is your GPA?,Do you listen to music while doing homework? ,How many minutes do you listen to music while doing homework? ,What type of music do you listen to? 
+Timestamp,GPA,Music_With_Homework,Minutes_Listened ,Music_Type
 10/29/2023 23:39:22,3.5,No,10,Upbeat
 10/31/2023 16:16:23,4.1,Yes,180,Chill
 10/31/2023 16:17:13,4,Yes,60,Upbeat
@@ -175,7 +175,7 @@ Timestamp,What is your GPA?,Do you listen to music while doing homework? ,How ma
 10/31/2023 17:09:15,4.5,Yes,60,Chill
 10/31/2023 17:17:27,4,Yes,1440,Chill
 10/31/2023 17:18:25,4,Yes,120,Chill
-10/31/2023 17:49:08,3.916,Yes,180,Upbeat
+10/31/2023 17:49:08,3.9,Yes,180,Upbeat
 10/31/2023 17:56:14,3.5,Yes,30,Chill
 10/31/2023 18:00:03,3.26,No,0,Upbeat
 10/31/2023 18:00:48,3.15,No,0,Upbeat
@@ -183,3 +183,19 @@ Timestamp,What is your GPA?,Do you listen to music while doing homework? ,How ma
 10/31/2023 19:10:16,4,Yes,30,Chill
 10/31/2023 19:12:41,3.9,No,0,Chill
 10/31/2023 19:12:41,4,Yes,60,Chill
+10/31/2023 19:56:13,4,No,0,Upbeat
+10/31/2023 20:04:26,3,Yes,7,Chill
+10/31/2023 20:09:01,3.5,Yes,60,Upbeat
+10/31/2023 20:26:15,3.95,Yes,61,Upbeat
+10/31/2023 20:37:57,3.65,Yes,180,Upbeat
+10/31/2023 20:50:31,3.5,No,0,Upbeat
+10/31/2023 21:07:33,3,Yes,120,Upbeat
+10/31/2023 21:08:58,2,Yes,30,Chill
+10/31/2023 21:12:45,3,Yes,120,Chill
+10/31/2023 21:16:33,3.3,Yes,120,Chill
+10/31/2023 21:16:44,3.7,Yes,300,Upbeat
+10/31/2023 21:19:21,3.7,Yes,120,Upbeat
+10/31/2023 21:21:42,3.2,Yes,100,Upbeat
+10/31/2023 21:22:42,3.8,Yes,120,Chill
+10/31/2023 21:23:13,3.5,Yes,60,Upbeat
+10/31/2023 21:23:14,3.8,Yes,60,Upbeat
